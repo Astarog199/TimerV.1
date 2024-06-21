@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Timer</string>
+    <string name="start">Start</string>
+    <string name="pause">Pause</string>
+    <string name="cont">Continue</string>
+    <string name="countdown_timer">Countdown Timer</string>
+    <string name="reset" >Reset</string>
+    <string name="mode">Reverse</string>
+    <string name="minutes">Minutes</string>
+</resources>
